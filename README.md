@@ -51,3 +51,5 @@ In this part, you will create 17 worksheets. You will search for answers to the 
 16 - Which seller in the US sold the most in terms of value?
 
 17 - Which brand had the largest absolute € difference in average transaction value between domestic and international?
+
+https://public.tableau.com/app/profile/tunahanozdogan/viz/project_sales_tableau/Story1?publish=yes
